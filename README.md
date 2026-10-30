@@ -29,7 +29,7 @@ The required Python dependencies are listed in
 pip install -r requirements.txt
 ```
 
-This notebooks can be executed in numerical order (01, 02, 03) using Jupyter Notebook or Visual Studio Code. Download AirQualityUCI.csv from the dataset source above and place it in the data/folder.
+This notebooks can be executed in numerical order (01, 02, 03) using Jupyter Notebook or Visual Studio Code.
 
 
 ## Assistance declaration
